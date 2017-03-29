@@ -36,7 +36,7 @@ As you can see, the dataset is not balanced across the labels. In other words, w
 
 
 ### II. Model Architecture
-![NN architecture](images/arch2.jpg)
+![NN architecture](images/archx.jpg)
 
 
 
